@@ -10,7 +10,7 @@ The underlying dataset used for this report is financial.csv, which contains loa
 
 Power BI – for dashboard development and visualization.
 
-Microsoft Excel / CSV – dataset source (financial.csv).
+Microsoft Excel / CSV – dataset source (financial_loan.csv).
 
 Data Cleaning & Transformation – handled using Power Query within Power BI.
 
