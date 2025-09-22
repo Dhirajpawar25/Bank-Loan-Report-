@@ -113,4 +113,4 @@ Integrate external economic indicators for deeper analysis.
 👤 Author
 
 Developed by Dhiraj Parshuram Pawar
-📧 [Your Email] | 🌐 [LinkedIn/GitHub link]
+📧 [dhirajpawar2508@gmail.com] | 🌐 [https://www.linkedin.com/in/dhirajpawar25]
